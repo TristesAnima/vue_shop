@@ -1,6 +1,7 @@
 <template>
-  <div id="app-container">
-    <router-view></router-view>
+  <div class="welcome-container">
+    <h3>welcome</h3>
+
   </div>
 </template>
 
@@ -10,6 +11,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less" scoped>
 
 </style>
